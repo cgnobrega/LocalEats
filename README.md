@@ -18,6 +18,6 @@ This file contains our powerpoint presentation from the demo.
 - [ ] upload python file
 - [ ] include repo link in report
 - [ ] upload Final Report
-- [ ] uplad presentation slides
+- [x] uplad presentation slides
 
 
