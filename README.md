@@ -16,7 +16,7 @@ This file contains our powerpoint presentation from the demo.
 
 - [x] upload database file
 - [ ] upload python file
-- [ ] include repo link in report
+- [x] include repo link in report
 - [ ] upload Final Report
 - [x] uplad presentation slides
 
