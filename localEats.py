@@ -28,7 +28,7 @@ def driver():
     model = input("Enter a car model: ")
     query = query + model + "', '"
     license = input("Enter a license plate number (405ZX2): ")
-    query = query +"')"
+    query = query + license + "')"
     
     return query
     
@@ -179,7 +179,6 @@ def insert():
         elif (table == "driver"):
             q2 = driver()
             query = query + "('ID', 'name', 'carMake', 'carModel', 'license') VALUES " +q2 + "; "
-            print(query)
         elif (table == "menu"):
             q2 = menu()
             query = query + "('menuID', 'type', 'price', 'itemID', 'restaurantID') VALUES " +q2 + "; "
