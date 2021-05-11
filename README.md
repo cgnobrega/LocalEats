@@ -7,17 +7,8 @@ This contains our database file in SQLite, created and manipulated in DB browser
 ## [localEats.py](https://github.com/cgnobrega/LocalEats/blob/main/localEats.py)
 This contains our python code and database front end. This is the code and interface used to interact with our database. 
 
-## LocalEats_Final_Report.pdf
+## [LocalEats_Final_Report.pdf](https://github.com/cgnobrega/LocalEats/blob/main/LocalEats_Final_Report.pdf)
 This file contains our final report for the project. 
 
-## LocalEats_Presentation_PG_CN.pptx
+## [LocalEats_Presentation_PG_CN.pptx](https://github.com/cgnobrega/LocalEats/blob/main/LocalEats_Presentation_PG_CN.pptx)
 This file contains our powerpoint presentation from the demo. 
-
-
-- [x] upload database file
-- [x] upload python file
-- [x] include repo link in report
-- [ ] upload Final Report
-- [x] uplad presentation slides
-
-
